@@ -1,0 +1,11 @@
+
+path: /home/pvbm.eng23/dataset_topicos
+
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: Red
+  1: Yellow
+  2: Green
