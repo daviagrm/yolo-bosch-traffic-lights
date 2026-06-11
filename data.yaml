@@ -1,8 +1,5 @@
 path: "c:/Users/agrda/OneDrive/Área de Trabalho/yolo-bosch-traffic-lights"
 
-# Localmente so existem as imagens de TESTE (images/test).
-# train/val apontam para o mesmo diretorio apenas para a validacao do
-# dataset passar; a avaliacao real usa split="test" na celula do notebook.
 train: images/test
 val: images/test
 test: images/test
